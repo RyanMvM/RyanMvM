@@ -1,37 +1,44 @@
-### 👋 Olá, me chamo Ryan Pacheco
+# Olá 👋! Me chamo Ryan Pacheco
 
-Estudante de Engenharia de Software apaixonado por tecnologia, inovação e aprendizado constante.  
-Atualmente focado em desenvolver minhas habilidades técnicas e contribuir com uma soluçóes eficientes e escaláveis.
+**`Desenvolvedor Backend`**
 
----
-
-### 📚 Aprendizado e hobbies
-* No momento mantenho o foco em Java, SpringBoot, Banco de dados, integração de IA em projetos, Design patterns, ferramentas como postman, mockito entre outras.  
-* Aficionado por 🎮 Jogos e 🎸 guitarra;
-* Fã de Death-Metal, alternative rock, Música clássica e documentários.
-
+Gosto de me desafiar para criar soluções eficientes, escaláveis e fáceis de manter. Busco sempre escrever um código limpo e bem estruturado, alinhado às boas práticas. Estou em constante evolução, aprendendo e aprimorando minhas habilidades a cada projeto. Tive a oportunidade de trabalhar por um período como desenvolvedor "Low Code" desenvolvendo agentes inteligentes com n8n, manipulação de json, integração com api e outras ferramentas.
 
 ---
 
-### 🖥️ Technologies and Skills
+### 🤖 Linguagens e Tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FFA500?style=for-the-badge&logo=Postman&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
+ 
 
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/RyanMvM/RyanMvM/output/snake.svg" alt="Snake animation" />
 
-### ⚙️ Github Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanMvM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=RyanMvM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMvM&show_icons=true&theme=tokyonight)
-
----
-
-### 📱 Connect with Me
-
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oryanpacheco@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-oliveiraa/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyanMvM)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55(11)912-416-530)
+<div align="left">
+  <a href="oryanpacheco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/ryan-oliveiraa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+</div>
