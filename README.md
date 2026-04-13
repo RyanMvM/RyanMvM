@@ -8,6 +8,7 @@ Sou um entusiasta de Dados/BI focado em transformar dados em insights. No moment
 
 Atualmente atuo como Intern Data Analyst, apoiando a gestão de KPIs, governança da informação e suporte à tomada de decisão. Possuo vivência em SQL, BigQuery, Excel, Power BI e Python, além de experiência em automação de processos em ambiente corporativo, com foco em eficiência e confiabilidade dos dados.
 
+---
 ### 🚀 Minhas Stacks
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
